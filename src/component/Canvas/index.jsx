@@ -15,15 +15,15 @@ import SmileyFaceIcon from '~/component/icon/SmileyFace';
 import S from './styles.scss';
 
 let names = [
-  'Key Partnerships',
-  'Key Activities',
-  'Key Resources',
-  'Value Propositions',
-  'Customer Relationships',
+  'Problem',
+  'Customer segments',
   'Channels',
-  'Customer Segments',
-  'Cost Structure',
-  'Revenue Streams'
+  'Success metrics',
+  'Possible solutions',
+  'Business readiness',
+  'Business value',
+  'Cost of delay',
+  'Costs'
 ];
 
 let icons = [
